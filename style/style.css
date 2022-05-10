@@ -110,7 +110,7 @@ main {
     border: 0px solid red;
     position: relative;
     transition: top .3s;
-    background-color: hsla(120, 100%, 98%, 1);
+    background-color: hsla(120, 100%, 100%, 1);
 }
 
 main.active {
